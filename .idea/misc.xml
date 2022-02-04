@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/background.xml" value="0.118" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/bs_close_icon_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/custom_ripple.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/dark_button_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/divider.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/gradient_bottom_top_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/gradient_top_bottom_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/hd_tag.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_add.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_arrow_back.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_baseline_face_24.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_chevron_right.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_close.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_download.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_download_circle.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_home.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_info.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_netflix_logo.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_netflix_short_logo.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_outline_play.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_play.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_play_circle_outline.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_round_face_24.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_search.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_settings_outline.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_share.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_star.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_thumb_up.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/ic_video_library.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/light_button_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/picker_close_icon_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/placeholder.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/poster_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/splash_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/drawable/video_loader_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/font/anton.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/font/archivo_black.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_bottom_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_login.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_movie_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_popular_movies.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_popular_tv.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_signup.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_splash_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/activity_tv_details_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/bottom_sheet_media_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/fragment_bottom_sheet_login.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/fragment_bottom_sheet_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/fragment_coming_soon.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/fragment_downloads.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/fragment_feed.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/fragment_item_picker.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/header_media_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_empty.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_episode.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_feed_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_feed_horizontal_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_feed_loader.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_feed_title.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_loader.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_media.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_picker_option.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_poster.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_thumbnail_container.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_top_movie.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_upcoming_movie.xml" value="0.264" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/layout/item_video.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/menu/bottom_nav.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/91826/AndroidStudioProjects/ChatFlix/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
